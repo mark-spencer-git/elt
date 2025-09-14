@@ -1,0 +1,21 @@
+[project]
+name = "elt"
+version = "0.0.1"
+authors= [
+    { name="Mark Spencer", email="mrkspencer07@gmail.com" }
+]
+description = "ELT package for Excel file ELT to Postgres DB"
+readme = "README.md"
+requires-python = ">3.8"
+classifiers = [
+    "Programming Languages :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/mark-spencer-git/elt"
+Issues = "https://github.com/mark-spencer-git/elt/issues"
+
+[build-system]
+requires = ["setuptools>=64.0.0"]
+build-backend = "setuptools.build_meta"

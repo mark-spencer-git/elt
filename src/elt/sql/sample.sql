@@ -1,0 +1,2 @@
+-- leaving empty - transformation logic should occur upon ingestion
+-- however can run sql update or alter table for quick and dirty transformation
