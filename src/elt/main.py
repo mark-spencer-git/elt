@@ -1,9 +1,7 @@
-from elt.configs.config import db, source, Connection
+from elt.configs.config import Connection
 from elt.extract.extract import extract
 from elt.load.load import load
 from elt.transform.transform import transform
-import pandas as pd
-import os
 
 def elt(file):
     print(file)

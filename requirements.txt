@@ -1,0 +1,12 @@
+-e git+ssh://git@github.com/mark-spencer-git/elt.git@b6cafe593c9e657bb4ecdbe4d464c792c344d2a5#egg=elt
+et_xmlfile==2.0.0
+numpy==2.4.0
+openpyxl==3.1.5
+pandas==2.3.3
+psycopg2==2.9.11
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+SQLAlchemy==2.0.45
+typing_extensions==4.15.0
+tzdata==2025.3
